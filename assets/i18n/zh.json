@@ -19,7 +19,7 @@
   "hello": "嗨嗨",
   "iAm": "我 是 王湘君",
   "subHeader": "能耐, 白 夜行, 顾问",
-  "contactMeHeading": "Contact me",
+  "contactMeHeading": "联系 我",
   "contactParagraph": "有问题，百度去吧!",
   "reportParagraph": "Suggestions? Feedback? Bugs?",
   "createIssue": "Create an issue",
@@ -77,59 +77,59 @@
   },
   "editOnGithub": "Found an error? Edit this page on Github",
   "aboutPage": {
-    "about": "About me",
-    "intro": "My name is Danny Koppenhagen and  I am a passionate software developer and IT consultant. My profession is the development of web applications – especially of single page applications (SPA). My technology stack includes mainly Angular, RxJS, NgRx but also Vue.js and NativeScript. Furthermore I develop Node.js backends based on JavaScript and TypeScript. I am an IT consultant for web-architectures and -frameworks. During the development I am very focussed on the user experience (UX).",
-    "meetup": " I regularly visit the Angular Berlin Meetup and help with the organization of it. Interesting topics around Angular, RxJS, NgRx and other tools are always presented at the Meetup.",
-    "meetupCta": "To the Angular Berlin Meetup",
-    "career": "My Career Path",
+    "about": "关于 我",
+    "intro": "我的名字是王湘君，我擅长在晚上摸鱼！",
+    "meetup": " 我在长沙工作。",
+    "meetupCta": "荆门",
+    "career": "对的时间点",
     "0": {
-      "location": "Frankfurt (Oder)",
-      "when": "2012",
-      "what": "IT Systems Technician",
-      "where": "Deutschen Telekom AG",
-      "info": "Informatics, telecommunication technology and electrical engineering"
+      "location": "荆门",
+      "when": "2020.03.21",
+      "what": "第一次见面",
+      "where": "万达",
+      "info": "散步"
     },
     "1": {
-      "location": "Cottbus",
-      "when": "2012",
-      "what": "Advisor: Technical Custome Consulting",
-      "where": "Deutsche Telekom Technischer Service GmbH (Customer Competence Center)",
-      "info": "Second level support for VoIP and WLAN products."
+      "location": "荆门",
+      "when": "2020.03.25",
+      "what": "第二次见面",
+      "where": "凤凰水库",
+      "info": "和她的朋友们一起散步"
     },
     "2": {
-      "location": "Leipzig",
-      "when": "2015",
-      "what": "Bachelor of Engineering (Computer Science and Telecommunications)",
-      "where": "Deutsche Telekom Hochschule für Telekommunikation (University of Applied Science)",
-      "info": "Network and transfer technologies, software engineering, IT architecture, protocol engineering as well as web and media technologies."
+      "location": "荆门",
+      "when": "2020.03.26",
+      "what": "第三次见面",
+      "where": "万达",
+      "info": "和她的朋友一起散步"
     },
     "3": {
-      "location": "Berlin",
-      "when": "2015",
-      "what": "Developer: TETRA Support and Implementation",
-      "where": "Deutsche Telekom Healthcare & Security Solutions GmbH",
-      "info": "Implementation of client- server architectures in the TETRA-BOS infrastructure. Administration, configuration, integration and test of IT systems."
+      "location": "武汉",
+      "when": "2020.04.15",
+      "what": "第四次见面",
+      "where": "武昌",
+      "info": "晚上22点到武昌火车站，一起吃了个夜宵"
     },
     "4": {
-      "location": "Berlin",
-      "when": "2017",
-      "what": "Author",
-      "where": "dpunkt.verlag",
-      "info": "First edition of the German book: 'Angular: Grundlagen, fortgeschrittene Techniken und Best Practices mit TypeScript'."
+      "location": "长沙",
+      "when": "2020.05.01",
+      "what": "第五次见面",
+      "where": "五一路",
+      "info": "一起吃晚饭，直到24点."
     },
     "5": {
-      "location": "Berlin",
-      "when": "2019",
-      "what": "Specialist: Developer and IT Consultant",
-      "where": "DB Systel GmbH",
-      "info": "Development of UX centered enterprise web applications. Consulting and implementation of web applications and -architectures and UX consulting."
+      "location": "长沙",
+      "when": "2020.05.02",
+      "what": "第六次见面",
+      "where": "五一路",
+      "info": "朋友开车带我们去吃了个夜宵"
     },
     "6": {
-      "location": "Berlin",
-      "when": "2019",
-      "what": "Author",
-      "where": "dpunkt.verlag",
-      "info": "Second edition of the German book: 'Angular: Grundlagen, fortgeschrittene Themen und Best Practices – inklusive NativeScript und NgRx'."
+      "location": "长沙",
+      "when": "2020.05.04",
+      "what": "第七次见面",
+      "where": "冬瓜山",
+      "info": "和朋友一起吃了个烧烤."
     }
   }
 }
