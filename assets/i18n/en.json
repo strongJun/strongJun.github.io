@@ -27,11 +27,11 @@
   "or": "or",
   "contactMe": "contact me",
   "publicationsPage": {
-    "title": "Angular: 'Grundlagen, fortgeschrittene Themen und Best Practices – ab Angular 8'",
-    "description": "This German Angular book will teach you how to develop modern apps for web and mobile. You will learn about the basic concepts of Angular, the best practices and related tools.",
-    "readOn": "angular-buch.com"
+    "title": "You Need ToCalm Down'",
+    "description": "The XiangJun will teach you how to take a photo. You will learn about the basic concepts of beauty, the best practices.",
+    "readOn": "Go Forward"
   },
-  "myProjects": "My Projects",
+  "myProjects": "My Tracks",
   "originallyPublishedAt": "Originally published at",
   "readOn": "Read more",
   "listEmpty": "No matching blog posts found.",

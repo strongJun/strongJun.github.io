@@ -16,7 +16,7 @@
   "recentBlogPosts": "最近 故事",
   "recentProjects": "My Projects",
   "thumbnail": "Thumbnail",
-  "hello": "嗨嗨",
+  "hello": "嗨 嗨",
   "iAm": "我 是 王湘君",
   "subHeader": "能耐, 白 夜行, 顾问",
   "contactMeHeading": "联系 我",
@@ -27,11 +27,11 @@
   "or": "or",
   "contactMe": "联系 我",
   "publicationsPage": {
-    "title": "Angular: 'Grundlagen, fortgeschrittene Themen und Best Practices – ab Angular 8'",
-    "description": "This German Angular book will teach you how to develop modern apps for web and mobile. You will learn about the basic concepts of Angular, the best practices and related tools.",
-    "readOn": "angular-buch.com"
+    "title": "这个自拍值得称赞'",
+    "description": "高手在线教学，不要998，只要999.",
+    "readOn": "友情链接"
   },
-  "myProjects": "My Projects",
+  "myProjects": "我的 足迹",
   "originallyPublishedAt": "Originally published at",
   "readOn": "Read more",
   "listEmpty": "No matching blog posts found.",
